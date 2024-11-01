@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cont {
+    background: rebeccapurple;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+  }
+
+  .team1{
+    padding: 30px;
+    background-color: sienna;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 40px;
+  }
+  .team2{
+    padding: 30px;
+    background-color: sienna;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 40px;
+  }
